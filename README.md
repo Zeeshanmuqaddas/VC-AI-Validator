@@ -1,3 +1,6 @@
+VC AI Validator is an elite SaaS dashboard that provides VC-level analysis of startup ideas, including market, risk, competition, and scoring, while generating brutally honest feedback. It is a Gemini-powered fast system that converts ideas into a pitch and investment readiness score (YC-style evaluation
+
+
 <div align="center">
 <img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
 </div>
